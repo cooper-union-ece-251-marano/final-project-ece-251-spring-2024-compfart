@@ -5,7 +5,7 @@
 // 
 //     Create Date: 2024-27-04
 //     Module Name: regfile
-//     Description: 32-bit RISC register file
+//     Description: 16-bit RISC register file
 //
 // Revision: 1.0
 //
