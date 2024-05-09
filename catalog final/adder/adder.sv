@@ -5,7 +5,7 @@
 //                                                                              //
 //     Create Date: 2024-04-27                                                  //
 //     Module Name: adder                                                       //
-//     Description: 32 bit adder                                                //
+//     Description: 16 bit adder                                                //
 //                                                                              //
 // Revision: 1.0                                                                //
 //                                                                              //
