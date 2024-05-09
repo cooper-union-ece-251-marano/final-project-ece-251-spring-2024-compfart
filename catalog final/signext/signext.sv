@@ -5,7 +5,7 @@
 // 
 //     Create Date: 2024-27-04
 //     Module Name: signext
-//     Description: 16 to 32 bit sign extender
+//     Description: 16 bit sign extender
 //
 // Revision: 1.0
 //
