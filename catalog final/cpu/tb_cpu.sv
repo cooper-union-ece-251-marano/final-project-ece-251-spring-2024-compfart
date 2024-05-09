@@ -5,7 +5,7 @@
 //                                                                              //
 //     Create Date: 2024-04-27                                                  //
 //     Module Name: tb_cpu                                                       //
-//     Description: Testbench for a 32-bit RISC-based CPU (MIPS)                //
+//     Description: Testbench for a 16-bit RISC-based CPU (MIPS)                //
 //                                                                              //
 //                                                                              //
 //                                                                              //
