@@ -1,5 +1,10 @@
 # Catalog of Verilog Components to Build and Simulate a MIPS-based RISC.
 
+Report can be found here: https://docs.google.com/document/d/15NU6VoKNIFshpJNubgPgraD_8P895sg974VlsPQ99F4/edit?usp=sharing
+Video: 
+
+
+
 This work is based off the MIPS Verilog code by [Harris and Harris](https://pages.hmc.edu/harris/ddca/ddca2e.html)
 
 The basis of the single cycle computer as provided by these Verilog components:
