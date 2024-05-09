@@ -5,7 +5,7 @@
 // 
 //     Create Date: 2024-04-27
 //     Module Name: alu
-//     Description: 32-bit RISC-based CPU alu (MIPS)
+//     Description: 16-bit RISC-based CPU alu (MIPS)
 //
 // 
 // 
