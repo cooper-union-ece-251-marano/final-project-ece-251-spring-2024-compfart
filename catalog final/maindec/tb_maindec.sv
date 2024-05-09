@@ -7,9 +7,9 @@
 // Module Name: tb_maindec
 // Description: Test bench for simple behavioral main decoder
 //
-// Revision: 1.0
-// citation: https://www.ece.ucdavis.edu/~bbaas/281/notes/Handout.verilog6.pdf 
-//provided a lot of useful info about this decoder design! 
+//
+// 
+// 
 ////////////////////////////////////////////////////////////////////////////////
 
 module tb_maindec();
