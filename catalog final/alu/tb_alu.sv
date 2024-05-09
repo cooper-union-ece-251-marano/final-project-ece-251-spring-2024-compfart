@@ -5,7 +5,7 @@
 //                                                                              //
 //     Create Date: 2024-04-27                                                  //
 //     Module Name: tb_alu                                                      //
-//     Description: Testbench for 32-bit ALU                                    //
+//     Description: Testbench for 16-bit ALU                                    //
 //                                                                              //
 //                                                                              //
 //                                                                              //
