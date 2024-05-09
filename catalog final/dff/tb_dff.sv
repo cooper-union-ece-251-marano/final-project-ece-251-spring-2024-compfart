@@ -5,7 +5,7 @@
 // 
 //     Create Date: 2024-04-27
 //     Module Name: tb_dff
-//     Description: Test bench for 32 bit D flip flop
+//     Description: Test bench for 16 bit D flip flop
 //
 // Revision: 1.0
 //
