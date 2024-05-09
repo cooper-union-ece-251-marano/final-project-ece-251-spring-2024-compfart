@@ -5,7 +5,7 @@
 // 
 //     Create Date: 2024-04-27
 //     Module Name: datapath
-//     Description: 32-bit RISC-based CPU datapath (MIPS)
+//     Description: 16-bit RISC-based CPU datapath (MIPS)
 //
 // Revision: 1.0
 //
