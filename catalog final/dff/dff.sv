@@ -5,7 +5,7 @@
 // 
 //     Create Date: 2024-04-27
 //     Module Name: dff
-//     Description: 32 bit D flip flop
+//     Description: 16 bit D flip flop
 //
 // Revision: 1.0
 //
