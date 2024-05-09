@@ -5,7 +5,7 @@
 // 
 // Create Date: 2024-07-27
 // Module Name: maindec
-// Description: 32-bit RISC-based CPU main decoder (MIPS)
+// Description: 16-bit RISC-based CPU main decoder (MIPS)
 //
 ////////////////////////////////////////////////////////////////////////////////
 
