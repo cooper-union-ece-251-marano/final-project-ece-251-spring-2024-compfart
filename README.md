@@ -1,4 +1,4 @@
-# Catalog of Verilog Components to Build and Simulate a MIPS-based RISC.
+# comp fart's catalog to building and simulating a MIPS-based RISC.
 
 Report can be found here: https://docs.google.com/document/d/15NU6VoKNIFshpJNubgPgraD_8P895sg974VlsPQ99F4/edit?usp=sharing
 Video: 
