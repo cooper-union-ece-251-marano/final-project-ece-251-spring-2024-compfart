@@ -5,7 +5,7 @@
 // 
 //     Create Date: 2024-27-04
 //     Module Name: tb_sl2
-//     Description: Test bench for shift left by 1 (multiply by 4)
+//     Description: Test bench for shift left by 2 (multiply by 4)
 //
 // Revision: 1.0
 //
