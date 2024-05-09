@@ -1,6 +1,5 @@
 module assembler;
 
-// Define opcodes and registers
 typedef enum logic [7:0] {
     add = 8'h0,
     sub = 8'h1,
@@ -122,7 +121,6 @@ module top;
 
         $fopen(input_file, input_file[0], "r");
 
-        // Check if input file opened successfully
         if (!$feof(input_file)) begin
             string line[$];
             while (!$feof(input_file)) begin
