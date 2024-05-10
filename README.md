@@ -1,9 +1,7 @@
 # comp fart's catalog to building and simulating a MIPS-based RISC.
 
 Report can be found here: https://docs.google.com/document/d/15NU6VoKNIFshpJNubgPgraD_8P895sg974VlsPQ99F4/edit?usp=sharing
-Video: 
-
-
+Video: https://youtu.be/cgIzKeZi7ho?si=bXnEgLGXp3mZDGxN
 
 This work is based off the MIPS Verilog code by [Harris and Harris](https://pages.hmc.edu/harris/ddca/ddca2e.html)
 
